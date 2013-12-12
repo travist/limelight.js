@@ -1,0 +1,17 @@
+{
+  "name": "limelight",
+  "description": "A node.js application for interacting with the Limelight API.",
+  "version": "0.0.1",
+  "author": "Travis Tidwell <travist349@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/travist/limelight.js.git"
+  },
+  "bugs": {
+    "url": "http://github.com/travist/limelight.js/issues"
+  },
+  "main": "limelight.js",
+  "dependencies": {
+    "crypto": ">=0"
+  }
+}
