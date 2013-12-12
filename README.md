@@ -26,7 +26,7 @@ You can then use this within your library like the following.
 ```
 // Include the dependencies.
 var needle = require('needle');
-var limelight = require('../limelight.js');
+var limelight = require('limelight');
 
 // Setup the variables.
 var organization = '1234567890';
