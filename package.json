@@ -1,7 +1,7 @@
 {
   "name": "limelight",
   "description": "A node.js application for interacting with the Limelight API.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Travis Tidwell <travist349@gmail.com>",
   "repository": {
     "type": "git",
@@ -12,6 +12,7 @@
   },
   "main": "limelight.js",
   "dependencies": {
-    "crypto": ">=0"
+    "crypto": ">=0",
+    "url": ">=0"
   }
 }

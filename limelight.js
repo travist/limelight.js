@@ -1,4 +1,5 @@
 var crypto = require("crypto");
+var url = require("url");
 exports = module.exports = {
   authenticate: function($http_verb, $resource_url, $access_key, $secret, $params) {
     $params = $params ? $params : {};
